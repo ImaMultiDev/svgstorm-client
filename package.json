@@ -16,13 +16,13 @@
     "typescript",
     "svgstorm"
   ],
-  "author": "Imanol",
+  "author": "imamultidev",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/imamultidev/svgstorm-client.git"
+    "url": "git+https://github.com/imamultidev/imamultidev.git"
   },
-  "homepage": "https://github.com/tu-usuario/svgstorm-client#readme",
+  "homepage": "https://github.com/imamultidev/svgstorm-client#readme",
   "peerDependencies": {
     "react": "^18.0.0 || ^19.0.0",
     "react-dom": "^18.0.0 || ^19.0.0"
